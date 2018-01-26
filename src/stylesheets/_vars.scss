@@ -1,0 +1,15 @@
+$red: #BD2828;
+$white: #ffffff;
+$grey: #353535;
+
+$background-primary: $red;
+$background-secondary: $grey;
+
+$inverse: $white;
+$default: $grey;
+
+
+// text imports
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|News+Cycle');
+$title-font: "News Cycle";
+$read-font: "Crimson Text";
